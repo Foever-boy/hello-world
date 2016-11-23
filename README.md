@@ -1,3 +1,3 @@
 # hello-world
-learning
+learning\n
 This is my first file!
